@@ -6,8 +6,15 @@ This repository contains everything you need for this lab.
 
 ## Files
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+## Project audited
+
+**Project:** Intellectus — Social Impact Intelligence  
+**Project builders:** Gretel and Paola  
+**Auditor:** Elza Paegle
+
+- [`intellectus_peer_audit_evidence_log.md`](intellectus_peer_audit_evidence_log.md) — annotated evidence, classification table, and clarifying-questions log
+- [`intellectus_eu_ai_act_peer_audit_report.md`](intellectus_eu_ai_act_peer_audit_report.md) — independent two-page audit report
+- [`intellectus_peer_audit_debrief_and_work_plan.md`](intellectus_peer_audit_debrief_and_work_plan.md) — required debrief record and stretch remediation plan
 
 ## How to complete this lab
 
